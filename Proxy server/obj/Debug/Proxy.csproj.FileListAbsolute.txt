@@ -1,0 +1,7 @@
+C:\Users\Artem\Desktop\http done\Proxy server\Proxy server\bin\Debug\Proxy server.exe.config
+C:\Users\Artem\Desktop\http done\Proxy server\Proxy server\bin\Debug\Proxy server.exe
+C:\Users\Artem\Desktop\http done\Proxy server\Proxy server\bin\Debug\Proxy server.pdb
+C:\Users\Artem\Desktop\http done\Proxy server\Proxy server\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\http done\Proxy server\Proxy server\obj\Debug\Proxy server.exe
+C:\Users\Artem\Desktop\http done\Proxy server\Proxy server\obj\Debug\Proxy server.pdb
+C:\Users\Artem\Desktop\http done\Proxy server\Proxy server\obj\Debug\Proxy.csprojAssemblyReference.cache
